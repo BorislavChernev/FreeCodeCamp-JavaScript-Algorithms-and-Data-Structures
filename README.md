@@ -1,4 +1,4 @@
-# avaScript Algorithms and Data Structures Certification
+# JavaScript Algorithms and Data Structures Certification
 ***
 [freeCodeCamp.org](https://www.freecodecamp.org/) is a non-profit organization that helps thousands of people learn to code for free. This repository captures my personal solutions for this certification path.</br></br>
 
