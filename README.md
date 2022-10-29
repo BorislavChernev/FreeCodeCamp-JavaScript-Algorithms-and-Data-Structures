@@ -3,15 +3,15 @@
 [freeCodeCamp.org](https://www.freecodecamp.org/) is a non-profit organization that helps thousands of people learn to code for free. This repository captures my personal solutions for this certification path.</br></br>
 
 ## Courses
-1. [**Basic JavaScript**](https://github.com/BorislavChernev/FreeCodeCamp-JavaScript-Algorithms-and-Data-Structures/tree/main/Basic-Algorithm-Scripting) **(28 Tasks)**
-2. [**ES6**](https://github.com/BorislavChernev/FreeCodeCamp-JavaScript-Algorithms-and-Data-Structures/tree/main/ES6) **(44 Tasks)**
-3. [**Regular Expressions**](https://github.com/BorislavChernev/FreeCodeCamp-JavaScript-Algorithms-and-Data-Structures/tree/main/Regular-Expressions) **(52 Tasks)**
-4. [**Debugging**](https://github.com/BorislavChernev/FreeCodeCamp-JavaScript-Algorithms-and-Data-Structures/tree/main/Debugging) **(22 Tasks)**
-5. [**Basic Data Structures**](https://github.com/BorislavChernev/FreeCodeCamp-JavaScript-Algorithms-and-Data-Structures/tree/main/Basic-Data-Structures) **(4 Tasks)**
-6. [**Basic Algorithm Scripting**](https://github.com/BorislavChernev/FreeCodeCamp-JavaScript-Algorithms-and-Data-Structures/tree/main/Basic-Algorithm-Scripting) **(17 Tasks)**
-7. [**Object Oriented Programming**](https://github.com/BorislavChernev/FreeCodeCamp-JavaScript-Algorithms-and-Data-Structures/tree/main/Object-Oriented-Programming) **(22 Tasks)**
-7. [**Functional Programming**](https://github.com/BorislavChernev/FreeCodeCamp-JavaScript-Algorithms-and-Data-Structures/tree/main/Functional-Programming) **(22 Tasks)**
-7. [**Intermediate Algorithm Scripting**](https://github.com/BorislavChernev/FreeCodeCamp-JavaScript-Algorithms-and-Data-Structures/tree/main/Intermediate-Algorithm-Scripting) **(22 Tasks)**
+1. [**Basic JavaScript**](https://github.com/BorislavChernev/FreeCodeCamp-JavaScript-Algorithms-and-Data-Structures/tree/main/Basic-Algorithm-Scripting) **(113 Tasks)**
+2. [**ES6**](https://github.com/BorislavChernev/FreeCodeCamp-JavaScript-Algorithms-and-Data-Structures/tree/main/ES6) **(29 Tasks)**
+3. [**Regular Expressions**](https://github.com/BorislavChernev/FreeCodeCamp-JavaScript-Algorithms-and-Data-Structures/tree/main/Regular-Expressions) **(33 Tasks)**
+4. [**Debugging**](https://github.com/BorislavChernev/FreeCodeCamp-JavaScript-Algorithms-and-Data-Structures/tree/main/Debugging) **(12 Tasks)**
+5. [**Basic Data Structures**](https://github.com/BorislavChernev/FreeCodeCamp-JavaScript-Algorithms-and-Data-Structures/tree/main/Basic-Data-Structures) **(20 Tasks)**
+6. [**Basic Algorithm Scripting**](https://github.com/BorislavChernev/FreeCodeCamp-JavaScript-Algorithms-and-Data-Structures/tree/main/Basic-Algorithm-Scripting) **(16 Tasks)**
+7. [**Object Oriented Programming**](https://github.com/BorislavChernev/FreeCodeCamp-JavaScript-Algorithms-and-Data-Structures/tree/main/Object-Oriented-Programming) **(26 Tasks)**
+7. [**Functional Programming**](https://github.com/BorislavChernev/FreeCodeCamp-JavaScript-Algorithms-and-Data-Structures/tree/main/Functional-Programming) **(24 Tasks)**
+7. [**Intermediate Algorithm Scripting**](https://github.com/BorislavChernev/FreeCodeCamp-JavaScript-Algorithms-and-Data-Structures/tree/main/Intermediate-Algorithm-Scripting) **(21 Tasks)**
 
 ## Projects
 here you can find the projects i have created to accomplish this learning path and obtain a certification.
